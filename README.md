@@ -1,6 +1,6 @@
 ##Game Overview##
 ● #Game Title:#
-        Car Sale Simulator
+        Car Simulator
 ● #Genre:# 
         Simulation game with elements of open-world, racing, and business management.
 ● #Target Audience:# 
